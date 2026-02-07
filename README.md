@@ -12,7 +12,7 @@ The website will be expanded over time to include:
 
 ## Live Website
 
-🔗 https://suprateekyawagal.vercel.app
+🔗 https://suprateekyawagal.in
 
 ## Tech Stack (Current)
 
